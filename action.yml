@@ -1,0 +1,15 @@
+name: 'Set crate version'
+description: 'Set the version of Rust crate to a new one.'
+author: 'Thomas Eizinger'
+branding:
+  color: white
+inputs:
+  version:
+    description: 'The new version to set for the Rust crate.'
+    required: true
+  manifest:
+    description: 'Path to the manifest that should be seted. Defaults to "./Cargo.toml"'
+    required: false
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
