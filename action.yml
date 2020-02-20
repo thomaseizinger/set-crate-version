@@ -2,6 +2,7 @@ name: 'Set crate version'
 description: 'Set the version of Rust crate to a new one.'
 author: 'Thomas Eizinger'
 branding:
+  icon: arrow-up
   color: white
 inputs:
   version:
