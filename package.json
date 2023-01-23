@@ -22,9 +22,12 @@
     "@actions/core": "^1.2.0",
     "toml-patch": "^0.2.3"
   },
+  "engines": {
+    "node": "16"
+  },
   "devDependencies": {
     "@types/jest": "^24.0.23",
-    "@types/node": "^12.7.12",
+    "@types/node": "^16.18.11",
     "eslint": "^5.16.0",
     "eslint-plugin-github": "^2.0.0",
     "eslint-plugin-jest": "^22.21.0",
