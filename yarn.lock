@@ -275,10 +275,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@decimalturn/toml-patch@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@decimalturn/toml-patch/-/toml-patch-0.3.1.tgz#8a201a0283016baf247b10b42328a058522239c9"
-  integrity sha512-rid7s/IOMk24EmkQ+0GKk+UAQPdeNybgIbcn6K3fI0YBcIX18tczJxlK6dKeH077S41HvbsRgFIW+O3P7zRAeA==
+"@decimalturn/toml-patch@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@decimalturn/toml-patch/-/toml-patch-0.3.2.tgz#6dd8259afe2e36fa4d58548677f37f97d10507d1"
+  integrity sha512-v52wuWwdu3uGSZ0r23M/snYHmCi0zmmzkcNsSNQykDt/BJ76o5b1TrFuGqzlDWYcqgbr6ssMN4TBOuTZrDGRiQ==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.0.0"
