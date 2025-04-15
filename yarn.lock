@@ -275,6 +275,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@decimalturn/toml-patch@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@decimalturn/toml-patch/-/toml-patch-0.3.2.tgz#6dd8259afe2e36fa4d58548677f37f97d10507d1"
+  integrity sha512-v52wuWwdu3uGSZ0r23M/snYHmCi0zmmzkcNsSNQykDt/BJ76o5b1TrFuGqzlDWYcqgbr6ssMN4TBOuTZrDGRiQ==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.0.0.tgz#10602de5570baea82f8afbfa2630b24e7a8cfe5b"
@@ -6038,11 +6043,6 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     extend-shallow "^3.0.2"
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
-
-toml-patch@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/toml-patch/-/toml-patch-0.2.3.tgz#5d6e5884755089c06622aa5fee7458d995520e8a"
-  integrity sha512-SQI/j7f2S/iQZmoWBWNUMTfVmPbhP3+YCqxB/q8iOjdnXBk29HDARHzjCazmwftZaylYuMSrTTrvJiESVyzJzw==
 
 tough-cookie@^2.3.3, tough-cookie@^2.3.4:
   version "2.5.0"

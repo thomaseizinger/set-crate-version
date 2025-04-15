@@ -66,6 +66,13 @@ warp = { version = "0.2", default-features = false }
 default-features = false
 features = ["http"]
 version = "0.8"
+description = """
+Lipsum is a lorem ipsum text generation library. Use this if you need
+filler or dummy text for your application.
+
+The text is generated using a simple Markov chain, which you can also
+instantiate to generate your own pieces of pseudo-random text.
+"""
 
 [dependencies.primitive-types]
 features = ["rlp"]
